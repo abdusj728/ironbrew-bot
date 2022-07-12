@@ -125,4 +125,4 @@ client.on("messageCreate", (message) => {
 })
 
 // login
-client.login(config.bot_token);
+client.login(os.environ['DISCORD_TOKEN']);
