@@ -125,4 +125,4 @@ client.on("messageCreate", (message) => {
 })
 
 // login
-client.login(os.environ["OTk2NTAwNDMyMjQxMzE1OTMy.G2p0FG.TQcxd7GVGiABv6hjS5veCe-VVkgezpiios_8A4");
+client.login(os.environ['DISCORD_TOKEN]);
