@@ -125,4 +125,4 @@ client.on("messageCreate", (message) => {
 })
 
 // login
-client.login(os.environ["OTk2NTAwNDMyMjQxMzE1OTMy.GWT-dT.uC-5jMZXzs1pn7EBLZvUbrVpNnHnY3OkTHe-5E");
+client.login(os.environ["OTk2NTAwNDMyMjQxMzE1OTMy.G2p0FG.TQcxd7GVGiABv6hjS5veCe-VVkgezpiios_8A4");
